@@ -1,5 +1,9 @@
 # io.wakamau/rsa-assignment
 
+Name: Kevin K. Mungai
+
+ID  : 650507
+
 ## generate prime numbers
 
 ```clojure
